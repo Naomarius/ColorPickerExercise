@@ -1,0 +1,5 @@
+c:\users\z777ik\documents\visual studio 2013\Projects\ColorPickerCodingExercise\Models\bin\Debug\Models.dll
+c:\users\z777ik\documents\visual studio 2013\Projects\ColorPickerCodingExercise\Models\bin\Debug\Models.pdb
+c:\users\z777ik\documents\visual studio 2013\Projects\ColorPickerCodingExercise\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+c:\users\z777ik\documents\visual studio 2013\Projects\ColorPickerCodingExercise\Models\obj\Debug\Models.dll
+c:\users\z777ik\documents\visual studio 2013\Projects\ColorPickerCodingExercise\Models\obj\Debug\Models.pdb

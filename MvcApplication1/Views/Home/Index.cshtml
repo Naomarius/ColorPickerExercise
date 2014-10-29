@@ -1,0 +1,34 @@
+﻿@model IEnumerable<MvcApplication1.Models.User>
+
+@{
+    ViewBag.Title = "Color Picker App";
+}
+
+@Html.Partial("Form", Model)
+
+<br />
+<div>
+    <h1>List of Users and color choices: </h1>
+    <br />
+    <table id="UsersTable" class="table">
+        <thead>
+            <th>User Name</th>
+            <th>Color Choice</th>
+            <th></th>
+            <th></th>
+        </thead>
+        @foreach (var item in Model)
+        {
+            <tr><td>@Html.DisplayFor(modelItem => item.UserName)</td><td class="colorMe">@Html.DisplayFor(modelItem => item.ColorName)</td><td>@Html.ActionLink("Edit", "Edit", new { id = item.ID })</td><td>@Html.ActionLink("Remove", "Delete", new { id = item.ID })</td></tr>
+        }
+    </table>
+</div>
+
+<script>
+    $(document).ready(function () {
+        $(".colorMe").each(function () {
+            var color = $(this).text();
+            $(this).css('color', color);
+        });
+    });
+</script>

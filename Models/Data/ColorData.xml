@@ -1,0 +1,24 @@
+﻿<?xml version="1.0"?>
+<ArrayOfColor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Color>
+    <colorName>Red</colorName>
+  </Color>
+  <Color>
+    <colorName>Blue</colorName>
+  </Color>
+  <Color>
+    <colorName>Green</colorName>
+  </Color>
+  <Color>
+    <colorName>Violet</colorName>
+  </Color>
+  <Color>
+    <colorName>Indigo</colorName>
+  </Color>
+  <Color>
+    <colorName>Orange</colorName>
+  </Color>
+  <Color>
+    <colorName>Yellow</colorName>
+  </Color>
+</ArrayOfColor>

@@ -1,0 +1,39 @@
+﻿@model IEnumerable<MvcApplication1.Models.User>
+
+<h2>My Favorite color is <span id="favColor" /></h2>
+
+<form action="/Home/AddEdit" method="post">
+    <fieldset>
+        <div>UserName: </div>
+        <input id="userName" type="text" name="UserName" /><br /><br />
+        <div>Color Choice: </div><br />
+        <select id="selectedColor" name="ColorName">
+            @foreach (var item in ViewData["Colors"]
+                as List<MvcApplication1.Models.Color>)
+            {
+                <option>@item.ColorName</option>
+            }
+        </select>
+        <br />
+        <br />
+        <input type="submit" name="submit" class="button" id="submit_btn" value="Submit" />
+    </fieldset>
+</form>
+
+<script>
+    $(document).ready(function () {
+        var length = $("#selectedColor > option").length;
+        $("#selectedColor").attr('size', length);
+    });
+
+    $("select").change(function () {
+        var str = "";
+        $("select option:selected").each(function () {
+            str += $(this).text() + " ";
+        });
+
+        $("#userColor").text(str);
+        $("#favColor").text(str);
+        $("#favColor").css('color', str);
+    }).change();
+</script>

@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <script src="//code.jquery.com/jquery-2.1.1.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+
+    <title>@ViewBag.Title</title>
+</head>
+
+<body>
+    <header>
+
+    </header>
+
+    <article>
+        @RenderSection("featured", required: false)
+        <section class="mainContainer container">
+            @RenderBody()
+        </section>
+    </article>
+
+    <footer>
+
+    </footer>
+</body>
+</html>
