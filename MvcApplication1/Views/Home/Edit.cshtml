@@ -5,8 +5,7 @@
 <form action="/Home/AddEdit" method="post">
     <fieldset>
         <div>UserName: </div>
-        @Html.EditorFor(model => model.UserName)
-        @Html.EditorFor(model => model.ID)<br /><br />
+        @Html.EditorFor(model => model.UserName)<br /><br />
         <div>Color Choice: </div><br />
         <select id="selectedColor" name="ColorName">
             @foreach (var item in ViewData["Colors"]

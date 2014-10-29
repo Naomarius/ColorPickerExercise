@@ -38,7 +38,7 @@ namespace MvcApplication1.Controllers
                 db.Entry(FoundUser).State = System.Data.Entity.EntityState.Modified;
                 db.SaveChanges();
             }
-            else
+            else if (!string.IsNullOrEmpty(newUser.UserName))
             {
                 newUser.UserColor = GetColor(newUser.ColorName);
                 db.Users.Add(newUser);
