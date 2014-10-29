@@ -33,3 +33,38 @@ c:\users\z777ik\documents\visual studio 2013\Projects\ColorPickerCodingExercise\
 c:\users\z777ik\documents\visual studio 2013\Projects\ColorPickerCodingExercise\MvcApplication1\bin\EntityFramework.SqlServer.dll
 c:\users\z777ik\documents\visual studio 2013\Projects\ColorPickerCodingExercise\MvcApplication1\bin\EntityFramework.xml
 c:\users\z777ik\documents\visual studio 2013\Projects\ColorPickerCodingExercise\MvcApplication1\bin\EntityFramework.SqlServer.xml
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\bin\MvcApplication1.dll.config
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\bin\MvcApplication1.dll
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\bin\MvcApplication1.pdb
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\bin\Antlr3.Runtime.dll
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\bin\EntityFramework.dll
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\bin\EntityFramework.SqlServer.dll
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\bin\Newtonsoft.Json.dll
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\bin\System.Net.Http.dll
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\bin\System.Net.Http.WebRequest.dll
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\bin\System.Web.Helpers.dll
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\bin\System.Web.Mvc.dll
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\bin\System.Web.Optimization.dll
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\bin\System.Web.Razor.dll
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\bin\System.Web.WebPages.dll
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\bin\System.Web.WebPages.Razor.dll
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\bin\WebGrease.dll
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\bin\Antlr3.Runtime.pdb
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\bin\EntityFramework.xml
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\bin\EntityFramework.SqlServer.xml
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\bin\Newtonsoft.Json.xml
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\bin\System.Web.Optimization.xml
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\bin\System.Net.Http.xml
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\bin\System.Net.Http.WebRequest.xml
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\bin\System.Web.Helpers.xml
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\bin\System.Web.Mvc.xml
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\bin\System.Web.Razor.xml
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\bin\System.Web.WebPages.xml
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\bin\System.Web.WebPages.Razor.xml
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\obj\Debug\MvcApplication1.csprojResolveAssemblyReference.cache
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\obj\Debug\MvcApplication1.dll
+C:\GitHubRepositories\ColorPickerExercise\MvcApplication1\obj\Debug\MvcApplication1.pdb
